@@ -1,4 +1,3 @@
-
 DOMAIN-SUFFIX, v2ny.one
 DOMAIN-SUFFIX, twilio.com
 DOMAIN-SUFFIX, 555dianying.cc
@@ -13,6 +12,9 @@ DOMAIN, blog.starryvoid.com
 DOMAIN-SUFFIX, nodeseek.com
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, spotifycdn.com
+
+# (LIST)
+DOMAIN-SUFFIX, limbopro.com
 
 # (TG)
 DOMAIN-SUFFIX, cdn-telegram.org
