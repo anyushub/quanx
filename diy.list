@@ -15,9 +15,19 @@ DOMAIN-SUFFIX, spotifycdn.com
 DOMAIN-SUFFIX, sleazyfork.org
 DOMAIN-SUFFIX, xdaforums.com
 DOMAIN-SUFFIX, machbbs.com
+DOMAIN-SUFFIX, clashios.com
+DOMAIN-SUFFIX, spacex.com
+DOMAIN-SUFFIX, googleapis.com
+
+# (ANDROID)
+DOMAIN-SUFFIX, apkmirror.com
+DOMAIN, cdn.androidcombo.com
+DOMAIN-SUFFIX, apkcombo.com
+DOMAIN-SUFFIX, apkpure.com
 
 # (LIST)
 DOMAIN-SUFFIX, limbopro.com
+DOMAIN-SUFFIX, anti-ad.net
 
 # (TG)
 DOMAIN-SUFFIX, cdn-telegram.org
